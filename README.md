@@ -11,7 +11,9 @@
   
   #### 📫 How to reach me:
   
-   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niveditaa-sarkar/)  &nbsp;                                       ✉️  You can contact me at nivedeta.sarcar@gmail.com
+   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niveditaa-sarkar/)  &nbsp; 
+   
+   ✉️  You can contact me at nivedeta.sarcar@gmail.com
 
 • Software Engineer with 3+ years of experience in DevOps and SRE practices. Working on reinforcing business solutions with Optimization and Automation. Eager to bring expertise to solve new challenging problems.
 
