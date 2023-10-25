@@ -19,16 +19,16 @@
 
   
   #### 👨🏻‍💻 DevOps Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"></code>
-  
+  [![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"></code>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
 
   #### 👨🏻‍💻 Cloud Providers <br />
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"></code>
@@ -41,6 +41,6 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
 
   #### 👨🏻‍💻 Certifications <br />
-  <code><img height="40" src=""></code>
+  <code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1.awsstatic.com%2Ftraining-and-certification%2Fcertification-badges%2FAWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png&tbnid=tieoUeCdeyGEyM&vet=12ahUKEwiC6vrgtZGCAxWjT2wGHY71CdgQMygAegQIARAt..i&imgrefurl=https%3A%2F%2Faws.amazon.com%2Fcertification%2Fcertified-developer-associate%2F&docid=PJcFI7e8yPNH-M&w=300&h=300&q=aws%20developer%20associate%20certification&ved=2ahUKEwiC6vrgtZGCAxWjT2wGHY71CdgQMygAegQIARAt"></code>
   <code><img height="40" src=""></code>
 
