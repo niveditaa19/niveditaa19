@@ -1,4 +1,4 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World! I'm Niveditaa Sarkar, a passionate Software Engineer at Capgemini.  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -42,7 +42,7 @@
 
   #### 👨🏻‍💻 Certifications <br />
 
-![download](https://github.com/niveditaa19/niveditaa19/assets/48845882/c9362025-57ba-4742-86d6-f537626d7b4e)y
+![download](https://github.com/niveditaa19/niveditaa19/assets/48845882/c9362025-57ba-4742-86d6-f537626d7b4e)
 
 ![download (1)](https://github.com/niveditaa19/niveditaa19/assets/48845882/e6a9a660-2770-4879-b4a2-e266a067f641)
 
