@@ -1,4 +1,4 @@
-  ### Hello World! I'm Niveditaa Sarkar, a passionate Software Engineer at Capgemini.  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World! I'm Niveditaa Sarkar, a passionate Software Engineer at Capgemini. 🌟  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
