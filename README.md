@@ -19,13 +19,28 @@
 
   
   #### 👨🏻‍💻 DevOps Tools <br />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"></code>
   
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"></code>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+  #### 👨🏻‍💻 Cloud Providers <br />
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"></code>
+
   
   #### 👨🏻‍💻 OS <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
 
-
+  #### 👨🏻‍💻 Certifications <br />
+  <code><img height="40" src=""></code>
+  <code><img height="40" src=""></code>
 
