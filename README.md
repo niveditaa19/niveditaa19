@@ -41,6 +41,7 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
 
   #### 👨🏻‍💻 Certifications <br />
-  <code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1.awsstatic.com%2Ftraining-and-certification%2Fcertification-badges%2FAWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png&tbnid=tieoUeCdeyGEyM&vet=12ahUKEwiC6vrgtZGCAxWjT2wGHY71CdgQMygAegQIARAt..i&imgrefurl=https%3A%2F%2Faws.amazon.com%2Fcertification%2Fcertified-developer-associate%2F&docid=PJcFI7e8yPNH-M&w=300&h=300&q=aws%20developer%20associate%20certification&ved=2ahUKEwiC6vrgtZGCAxWjT2wGHY71CdgQMygAegQIARAt"></code>
+  <code><img height="40" src="![image](https://github.com/niveditaa19/niveditaa19/assets/48845882/5877359f-53b8-40f7-be48-6b911abd303b)
+"></code>
   <code><img height="40" src=""></code>
 
