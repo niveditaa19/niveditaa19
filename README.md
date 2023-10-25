@@ -41,7 +41,7 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
 
   #### 👨🏻‍💻 Certifications <br />
-  <code><img height="40" src="![image](https://github.com/niveditaa19/niveditaa19/assets/48845882/5877359f-53b8-40f7-be48-6b911abd303b)
-"></code>
-  <code><img height="40" src=""></code>
+  ![image](https://github.com/niveditaa19/niveditaa19/assets/48845882/c551cfc8-7bf1-473f-9f52-d7345ff55f16)
+  ![image](https://github.com/niveditaa19/niveditaa19/assets/48845882/008fb861-7b48-43e4-b186-66d6f755c14b)
+  
 
