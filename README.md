@@ -23,7 +23,7 @@
 
 • Got good exposure to 3 of the popularly used Cloud Platforms : Amazon Web Services(AWS), Microsoft Azure, Google Cloud Platform (GCP)
 
-• Expertise in Chaos Engineering methodologies and principles.
+• Expertise in Chaos Engineering methodologies and principles along with tools such as Litmus, Gremlin and Chaos Mesh.
 
 • In-depth understanding of Ubuntu Linux and CentOS.
 
