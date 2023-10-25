@@ -19,7 +19,7 @@
 
 • 3+ years of experience in DevOps/SRE including CI/CD ,Infrastructure Automation and Configuration Management through use of tools like BitBucket, Jenkins, Terraform and Ansible.
 
-• Experience in Containerization and Container Orchestration technologies and tools using Docker and Kubernetes.
+• Experience with Containerization and Container Orchestration tools such as Docker and Kubernetes.
 
 • Got good exposure to 3 of the popularly used Cloud Platforms : Amazon Web Services(AWS), Microsoft Azure, Google Cloud Platform (GCP)
 
