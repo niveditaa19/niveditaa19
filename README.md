@@ -11,7 +11,23 @@
   
   #### 📫 How to reach me:
   
-   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niveditaa-sarkar/)  &nbsp;                                           <a href="mailto:nivedeta.sarcar@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niveditaa-sarkar/)  &nbsp;                                       ✉️  You can contact me at nivedeta.sarcar@gmail.com
+
+• Software Engineer with 3+ years of experience in DevOps and SRE practices. Working on reinforcing business solutions with Optimization and Automation. Eager to bring expertise to solve new challenging problems.
+
+• 3+ years of experience in DevOps/SRE including CI/CD ,Infrastructure Automation and Configuration Management through use of tools like BitBucket, Jenkins, Terraform and Ansible.
+
+• Experience in Containerization and Container Orchestration technologies and tools using Docker and Kubernetes.
+
+• Got good exposure to 3 of the popularly used Cloud Platforms : Amazon Web Services(AWS), Microsoft Azure, Google Cloud Platform (GCP)
+
+• Expertise in Chaos Engineering methodologies and principles.
+
+• In-depth understanding of Ubuntu Linux and CentOS.
+
+• Knowledge of SRE priciples such as Monitoring, Observability, Scalability, Reliability, Resiliency and  High Availability.
+
+• Worked for industry clients and have experience working with Major Banking and Insurance clients.
   
   #### 👨🏻‍💻 Languages <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
