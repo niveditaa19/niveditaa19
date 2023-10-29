@@ -64,4 +64,21 @@
 
 ![download (1)](https://github.com/niveditaa19/niveditaa19/assets/48845882/e6a9a660-2770-4879-b4a2-e266a067f641)
 
+  #### 👨🏻‍💻 Achievements <br />
+-  I hold the prestigious certifications of an AWS Developer Associate and an Azure Administrator Associate, reflecting my commitment to excellence in cloud computing.
+
+-  My significant achievements include the creation of a highly effective Chaos Engineering Model, instrumental in securing a major banking client. I successfully delivered 
+   automated solutions to our banking client, ensuring the resilience, high availability, and strict adherence to SLAs of their critical applications.
+
+-  I actively participated in the collaborative development of a robust Chaos Engineering Platform designed for onboarding banking applications and conducting precision        Chaos   Injection exercises, which significantly contributed to enhancing system reliability.
+
+- In addition to my practical accomplishments, I have been recognized as a Gold Medalist in Information Technology at my university, underscoring my dedication to academic    and professional excellence.
+
+- These accomplishments reflect my dedication to driving business objectives, optimizing system performance, and achieving high standards of success in the field of           information technology and cloud services.
+
+
+
+
+
+
 
